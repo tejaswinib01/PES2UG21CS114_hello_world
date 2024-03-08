@@ -1,0 +1,3 @@
+C:/Users/Tejaswini/Downloads/Github Actions A4/Github Actions A4/build/CMakeFiles/hello_world.dir
+C:/Users/Tejaswini/Downloads/Github Actions A4/Github Actions A4/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tejaswini/Downloads/Github Actions A4/Github Actions A4/build/CMakeFiles/ZERO_CHECK.dir
